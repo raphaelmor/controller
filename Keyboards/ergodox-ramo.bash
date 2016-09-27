@@ -47,7 +47,7 @@ PartialMaps[3]="Ramo_Ergodox-3 lcdFuncMap"
 # Keyboard Module Configuration
 ScanModule="Ramo_Ergodox"
 MacroModule="PartialMap"
-OutputModule="pjrcUSB"
+OutputModule="pjrcUSB-NoMouse"
 DebugModule="full"
 
 # Microcontroller
